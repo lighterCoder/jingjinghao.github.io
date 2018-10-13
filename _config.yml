@@ -1,6 +1,6 @@
 # main text of home
-name: Cédric Rommel
-bio: PhD student in Optimization and Statistical Learning
+name: 郝晶晶 Jingjing Hao
+bio: PhD student in Signal and image processing
 #I am a PhD student in Optimization and Statistical Learning at the Ecole Polytechnique (CMAP), working at the french start up Safety Line. My supervisors are Frédéric Bonnans and Pierre Martinon, from INRIA Saclay. My research focuses on the identification of civil aircraft's dynamical models and their trajectory optimization relative to the fuel consumption.
 
 # twitter summary info
@@ -17,7 +17,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://cedricrommel.github.io
+url: https://jingjinghao.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -37,14 +37,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: ccrommel
+twitter: haojingjing
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: cedric-rommel
+linkedin: jingjingamy-hao
 # youtube: myyoutube
 # spotify: myspotify
-github: cedricrommel
+github: lighterCoder
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -52,7 +52,7 @@ github: cedricrommel
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: cedric.rommel@safety-line.fr
+email: haojingjing.hjj@foxmail.com
 
 authors:
     cedricrommel:
