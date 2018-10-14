@@ -10,7 +10,7 @@ description: My personal page #A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/original_Lv6v_de3400000f12195a.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -60,7 +60,7 @@ authors:
         name: Jingjing Hǎo
         bio: Computing Engineer
         external-image: false
-        picture: assets/images/original_Lv6v_de3400000f12195a.jpg
+        picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
