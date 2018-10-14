@@ -9,7 +9,7 @@ description: My personal page #A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -59,7 +59,7 @@ authors:
     lightCoder:
         name: Jingjing Hǎo
         bio: Computing Engineer
-        external-image: false
+        external-image: true
         picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
