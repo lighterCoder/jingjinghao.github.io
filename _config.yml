@@ -1,7 +1,8 @@
 # main text of home
-name: 郝晶晶 Jingjing Hao
-bio: PhD student in Signal and image processing
-#I am a PhD student in Optimization and Statistical Learning at the Ecole Polytechnique (CMAP), working at the french start up Safety Line. My supervisors are Frédéric Bonnans and Pierre Martinon, from INRIA Saclay. My research focuses on the identification of civil aircraft's dynamical models and their trajectory optimization relative to the fuel consumption.
+name: Jingjing Hǎo
+bio: Computing Engineer, PhD student in Signal and image processing
+#I am a PhD student in processing and understanding brain data(EEG) at Université Paris-Saclay(ED-STIC), working at Institut national de recherche en informatique et en automatique(Inria, CMAP).
+
 
 # twitter summary info
 description: My personal page #A blog about technology and stuff related
@@ -55,9 +56,9 @@ github: lighterCoder
 email: haojingjing.hjj@foxmail.com
 
 authors:
-    cedricrommel:
-        name: Cédric Rommel
-        bio: PhD student in Optimization and Statistical Learning
+    lightCoder:
+        name: Jingjing Hǎo
+        bio: Computing Engineer
         external-image: false
         picture: assets/images/profile.jpg
 
